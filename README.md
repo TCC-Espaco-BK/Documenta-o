@@ -1,2 +1,2 @@
-# Documenta-o
+# Documentação
 Documentação do código e seu funcionamento
